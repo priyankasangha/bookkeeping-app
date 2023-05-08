@@ -1,0 +1,55 @@
+{
+  "inProgress": {
+    "books": [
+      {
+        "authorln": "Aveyard",
+        "rating": 0,
+        "title": "Red Queen",
+        "priority": 0
+      }
+    ],
+    "name": "In Progress"
+
+  },
+
+  "completed": {
+    "books": [
+      {
+        "authorln": "Black",
+        "rating": 5,
+        "title": "Cruel Prince",
+        "priority": 0
+      },
+      {
+        "authorln": "Black",
+        "rating": 4,
+        "title": "Wicked King",
+        "priority": 0
+      }
+    ],
+    "name": "Completed"
+  },
+  "wantToRead": {
+    "books": [
+      {
+        "authorln": "Kafka",
+        "rating": 0,
+        "title": "The Metamorphosis",
+        "priority": 5
+      },
+      {
+        "authorln": "idk",
+        "rating": 0,
+        "title": "idk 3",
+        "priority": 3
+      },
+      {
+        "authorln": "idk 1",
+        "rating": 0,
+        "title": "idk 1",
+        "priority": 1
+      }
+    ],
+    "name": "Want To Read"
+  }
+}

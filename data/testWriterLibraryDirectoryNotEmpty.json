@@ -1,0 +1,37 @@
+{
+    "inProgress": {
+        "books": [{
+            "authorln": "b",
+            "rating": 0,
+            "title": "b2",
+            "priority": 0
+        }],
+        "name": "In Progress"
+    },
+    "completed": {
+        "books": [{
+            "authorln": "b",
+            "rating": 0,
+            "title": "b3",
+            "priority": 0
+        }],
+        "name": "Completed"
+    },
+    "wantToRead": {
+        "books": [
+            {
+                "authorln": "b",
+                "rating": 0,
+                "title": "b4",
+                "priority": 0
+            },
+            {
+                "authorln": "b",
+                "rating": 0,
+                "title": "b1",
+                "priority": 0
+            }
+        ],
+        "name": "Want To Read"
+    }
+}

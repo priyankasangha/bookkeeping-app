@@ -1,0 +1,14 @@
+{
+    "inProgress": {
+        "books": [],
+        "name": "In Progress"
+    },
+    "completed": {
+        "books": [],
+        "name": "Completed"
+    },
+    "wantToRead": {
+        "books": [],
+        "name": "Want To Read"
+    }
+}
