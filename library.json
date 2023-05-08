@@ -1,0 +1,38 @@
+{
+    "inProgress": {
+        "books": [],
+        "name": "In Progress"
+    },
+    "completed": {
+        "books": [{
+            "authorln": "sdhfkld",
+            "rating": 0,
+            "title": "lksdjfld",
+            "priority": 0
+        }],
+        "name": "Completed"
+    },
+    "wantToRead": {
+        "books": [
+            {
+                "authorln": "idk5",
+                "rating": 0,
+                "title": "idk5",
+                "priority": 5
+            },
+            {
+                "authorln": "idk3",
+                "rating": 0,
+                "title": "idk3",
+                "priority": 3
+            },
+            {
+                "authorln": "idk1",
+                "rating": 0,
+                "title": "idk1",
+                "priority": 1
+            }
+        ],
+        "name": "Want To Read"
+    }
+}
